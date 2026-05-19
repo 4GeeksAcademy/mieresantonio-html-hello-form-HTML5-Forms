@@ -1,0 +1,12 @@
+/* Esto me elimina las flechas por defecto */
+input[type=number]::-webkit-inner-spin-button, 
+input[type=number]::-webkit-outer-spin-button { 
+  -webkit-appearance: none; 
+  margin: 0; 
+}
+
+/* Un margen para los iconos de las tarjetas */
+.form-check-label i {
+    font-size: 1.2rem;
+    vertical-align: middle;
+}
