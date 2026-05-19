@@ -21,4 +21,3 @@ window.onload = function() {
         form.classList.remove('was-validated');
     });
 };
-
